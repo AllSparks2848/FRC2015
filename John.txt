@@ -1,0 +1,7 @@
+Hey John, It's Dunkerley. Idk if you'll read this, but I understand that you're under pressure from Greg/Couv/anyone else to finish the code. I know it's hard. But you'll learn a lot. Don't sweat it if you screw up. You're the head programmer for a reason. No way you can do worse than me at Lubbock in 2013. That was a god awful 3 days for me. 
+
+Anyway, I know you guys are going to do great. Go kick ass.
+
+-Dunkerley, Slam Dunkerley, Code Ninja, etc.
+
+PS, if this file screws over any dependencies (which it shouldn't), you know how to revert back to older commits. Also, this was formatted in notepad with word wrap on, so it might look bad if you turn it off.
